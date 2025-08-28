@@ -1,75 +1,37 @@
-# Nuxt Minimal Starter
+# 🚀 On-Device AI Chatbot
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A demo chatbot that uses **On-device AI** to convert text to vectors and Chrome's built-in Prompt API for intelligent responses.
 
-## Setup
+## ✨ What it does
 
-Make sure to install dependencies:
+- **Local AI**: Uses `all-MiniLM-L6-v2` model to convert text to vectors on your device
+- **Smart Search**: Finds relevant answers using semantic similarity
+- **Built-in AI**: Leverages built-in Prompt API for enhanced responses
+- **Thai Food Expert**: Specialized knowledge about authentic Thai cuisine
+
+## 🚀 Quick Start
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+npm run dev 
 ```
 
-## Development Server
+Open `http://localhost:3000` in Chrome 126+
 
-Start the development server on `http://localhost:3000`:
+## 🛠️ Tech Stack
 
-```bash
-# npm
-npm run dev
+- **Frontend**: Nuxt.js + Vue 3
+- **AI**: Hugging Face Transformers.js
+- **Vector Model**: Xenova/all-MiniLM-L6-v2
+- **AI Chat**: Prompt API
 
-# pnpm
-pnpm dev
+## 💡 How it works
 
-# yarn
-yarn dev
+1. **Text → Vector**: Your question gets converted to a vector locally
+2. **Search**: Finds similar FAQ entries using cosine similarity
+3. **AI Response**: Chrome's Prompt API generates intelligent answers
+4. **Display**: Shows response with markdown formatting
 
-# bun
-bun run dev
-```
+---
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+**Experience on-device AI today! 🧠✨**
