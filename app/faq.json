@@ -1,0 +1,402 @@
+[
+    {
+      "answer": "Thai food is characterized by its intricate balance of five fundamental flavors: spicy, sour, sweet, salty, and savory (and sometimes bitter). It emphasizes fresh herbs, aromatic ingredients, and a harmonious blend of textures.",
+      "question": "What defines Thai food?"
+    },
+    {
+      "answer": "No, this is a common misconception. While many famous dishes are spicy, a huge portion of Thai cuisine is not. Spiciness is just one component, and you can almost always request a dish to be made mild (`$mai\\ pet$`) or not spicy at all.",
+      "question": "Is all Thai food spicy?"
+    },
+    {
+      "answer": "Rice is the absolute staple. Fragrant jasmine rice ($khao\\ hom\\ mali$) is served with most dishes in Central and Southern Thailand, while sticky rice ($khao\\ niao$) is preferred in the North and Northeast. Noodles are also extremely popular.",
+      "question": "What are the staple foods in Thailand?"
+    },
+    {
+      "answer": "This refers to galangal ($kha$), lemongrass ($takrai$), and kaffir lime leaves ($bai\\ makrut$). Their combined aroma is the signature scent of many Thai soups and curries, like Tom Yum.",
+      "question": "What are the \"holy trinity\" of Thai ingredients?"
+    },
+    {
+      "answer": "A Thai meal is typically served \"family style,\" with all dishes brought out at once. Diners share a variety of dishes—like a curry, a stir-fry, a soup, and a salad—each taking small portions to eat with their individual plate of rice.",
+      "question": "How is a typical Thai meal structured?"
+    },
+    {
+      "answer": "Fish sauce is the primary source of saltiness and umami in Thai cuisine, equivalent to soy sauce in Chinese food or salt in Western cooking. It's a pungent, amber-colored liquid made from fermented anchovies and salt.",
+      "question": "What is fish sauce ($nam\\ pla$)?"
+    },
+    {
+      "answer": "Thai curries are typically made from a fresh paste of herbs like lemongrass, galangal, and fresh chilies, and they are often thinned with coconut milk, giving them a soupy consistency. Indian curries usually start with a base of onion, ginger, and garlic, use dried spices (like cumin and coriander), and are often thickened with yogurt or cream.",
+      "question": "What is the difference between Thai curry and Indian curry?"
+    },
+    {
+      "answer": "It can be very healthy. Traditional Thai cuisine is rich in fresh vegetables, lean proteins, and metabolism-boosting spices. However, some dishes can be high in sugar, salt (from fish sauce), and fat (from coconut milk and deep-frying), so balance is key.",
+      "question": "Is Thai food healthy?"
+    },
+    {
+      "answer": "This is a more refined and visually elaborate style of cooking that originated in the royal palaces. It emphasizes complex preparation, premium ingredients, delicate flavors, and beautiful presentation, often with intricate fruit and vegetable carvings.",
+      "question": "What is \"Royal Thai Cuisine\" ($Ahan\\ Chao\\ Wang$)?"
+    },
+    {
+      "answer": "An essential one. Herbs like Thai basil, holy basil, cilantro (including the roots), mint, and pandan leaves are used extensively not just for flavor but also for their fresh, uplifting aromas.",
+      "question": "What role do fresh herbs play?"
+    },
+    {
+      "answer": "Thailand's most famous noodle dish. It's a stir-fry of rice noodles with tofu, shrimp, or chicken, eggs, bean sprouts, and chives in a sweet, sour, and savory tamarind-based sauce, often topped with crushed peanuts.",
+      "question": "What is Pad Thai ($Pad\\ Thai$)?"
+    },
+    {
+      "answer": "A world-renowned hot and sour soup. Its iconic flavor comes from lemongrass, galangal, kaffir lime leaves, lime juice, and chili. '$Goong$' means shrimp, but it can also be made with chicken ($Tom\\ Yum\\ Gai$) or other proteins.",
+      "question": "What is Tom Yum Goong ($Tom\\ Yum\\ Goong$)?"
+    },
+    {
+      "answer": "Tom Kha ($Tom\\ Kha\\ Gai$) is also a hot and sour soup but is enriched with coconut milk, giving it a creamy texture and a milder, sweeter flavor profile compared to the clear and fiery Tom Yum. '$Gai$' means chicken.",
+      "question": "What's the difference between Tom Yum and Tom Kha?"
+    },
+    {
+      "answer": "A coconut milk-based curry made with fresh green chilies, giving it its color and a bright, spicy kick. The name translates to \"sweet green curry,\" but it can be very spicy.",
+      "question": "What is Green Curry ($Gaeng\\ Keow\\ Wan$)?"
+    },
+    {
+      "answer": "Similar to green curry but made with a paste from dried red chilies, which gives it a deeper, more savory, and slightly less fiery heat (though this varies).",
+      "question": "What is Red Curry ($Gaeng\\ Phed$)?"
+    },
+    {
+      "answer": "A rich, mild, and slightly sweet curry with Persian and Indian influences. It features spices not common in other Thai curries, like cinnamon, cardamom, and cloves, and typically includes peanuts, potatoes, and onions.",
+      "question": "What is Massaman Curry ($Gaeng\\ Massaman$)?"
+    },
+    {
+      "answer": "A thick, sweet, and salty red curry that is richer and less soupy than regular red curry. It's often topped with shredded kaffir lime leaves and is moderately spicy.",
+      "question": "What is Panang Curry ($Gaeng\\ Panang$)?"
+    },
+    {
+      "answer": "A spicy green papaya salad, primarily associated with Northeastern (Isan) Thailand. It's pounded in a mortar and pestle with chilies, garlic, lime juice, fish sauce, and palm sugar. There are many variations, some with peanuts, dried shrimp, or fermented fish.",
+      "question": "What is Som Tum ($Som\\ Tum$)?"
+    },
+    {
+      "answer": "A hugely popular and quick stir-fry made with Thai holy basil ($kra\\ pao$), chilies, garlic, and a protein like minced pork, chicken, or beef. It's typically served over rice with a fried egg ($khai\\ dao$) on top.",
+      "question": "What is Pad Kra Pao ($Pad\\ Kra\\ Pao$)?"
+    },
+    {
+      "answer": "A stir-fried noodle dish made with wide, flat rice noodles, Chinese broccoli, egg, and a protein, seasoned with dark and light soy sauce. It’s savory and smoky, not spicy.",
+      "question": "What is Pad See Ew ($Pad\\ See\\ Ew$)?"
+    },
+    {
+      "answer": "Despite the name, there is no alcohol in the recipe. It's a spicy stir-fry with wide rice noodles, holy basil, and fresh chilies. The legend is that its intense spice level makes it a good dish to eat while drinking or as a hangover cure.",
+      "question": "What are Drunken Noodles ($Pad\\ Kee\\ Mao$)?"
+    },
+    {
+      "answer": "A signature dish of Northern Thailand. It's a creamy, curry-based noodle soup, usually with chicken or beef, served with both boiled egg noodles and a topping of crispy fried noodles.",
+      "question": "What is Khao Soi ($Khao\\ Soi$)?"
+    },
+    {
+      "answer": "A spicy minced meat \"salad\" from the Northeast. The meat (pork, chicken, duck, or beef) is cooked and tossed with lime juice, fish sauce, chili flakes, and toasted ground rice ($khao\\ khua$), which gives it a nutty texture.",
+      "question": "What is Larb ($Larb$)?"
+    },
+    {
+      "answer": "Thailand's most famous dessert. It consists of sweet sticky rice steamed with coconut milk, served with fresh, ripe mango slices and a drizzle of coconut cream.",
+      "question": "What is Mango Sticky Rice ($Khao\\ Niao\\ Mamuang$)?"
+    },
+    {
+      "answer": "A rich, dark, and intensely flavorful noodle soup, traditionally thickened with pork or beef blood (which adds umami, not a metallic taste). It's typically served in small bowls.",
+      "question": "What is Boat Noodle Soup ($Kuay\\ Teow\\ Ruea$)?"
+    },
+    {
+      "answer": "A dry-style stir-fried curry (meaning no coconut milk is added). It's made with red curry paste, long beans, and a protein. It's savory and aromatic from the kaffir lime leaves.",
+      "question": "What is Pad Prik King ($Pad\\ Prik\\ King$)?"
+    },
+    {
+      "answer": "Grilled skewers of marinated meat (usually chicken, pork, or beef) served with a rich peanut dipping sauce and a refreshing cucumber relish ($ajat$).",
+      "question": "What is Satay ($Satay$)?"
+    },
+    {
+      "answer": "Crispy, deep-fried rolls filled with glass noodles, shredded vegetables, and sometimes minced pork, served with a sweet chili dipping sauce.",
+      "question": "What are Thai Spring Rolls ($Por\\ Pia\\ Tod$)?"
+    },
+    {
+      "answer": "A simple but beloved dish. It's a fluffy, crispy-edged Thai-style omelette filled with generous chunks of fresh crab meat, served over rice with a side of Sriracha sauce.",
+      "question": "What is Crab Omelette ($Khai\\ Jiao\\ Poo$)?"
+    },
+    {
+      "answer": "A visually appealing dish of fried rice with shrimp or chicken, pineapple chunks, cashew nuts, and raisins, often seasoned with curry powder and served in a hollowed-out pineapple half.",
+      "question": "What is Pineapple Fried Rice ($Khao\\ Pad\\ Sapparot$)?"
+    },
+    {
+      "answer": "There are four primary regions: North (Lanna), Northeast (Isan), Central Plains (Bangkok), and South.",
+      "question": "What are the main culinary regions of Thailand?"
+    },
+    {
+      "answer": "It's generally milder, less sweet, and influenced by Burmese and Chinese cuisines. It features sticky rice as the staple, pork, and lots of vegetables. Famous dishes include Khao Soi and Sai Oua (northern sausage).",
+      "question": "What is Northern (Lanna) food known for?"
+    },
+    {
+      "answer": "Known for its bold, fiery, and pungent flavors. Key dishes are Som Tum (papaya salad), Larb (minced meat salad), and grilled chicken ($gai\\ yang$). They eat sticky rice and often use fermented fish sauce ($pla\\ ra$).",
+      "question": "What is Northeastern (Isan) food known for?"
+    },
+    {
+      "answer": "This is the cuisine most people are familiar with, from the Bangkok region. It balances all flavors and features jasmine rice. Dishes like Green Curry, Tom Yum Goong, and Pad Thai are from this region.",
+      "question": "What is Central Thai food known for?"
+    },
+    {
+      "answer": "Known for being intensely spicy and pungent. It uses lots of coconut milk, fresh turmeric, and seafood due to its long coastlines. Famous dishes include Gaeng Som (a fiery sour curry) and Khua Kling (a very spicy dry-fried meat curry).",
+      "question": "What is Southern Thai food known for?"
+    },
+    {
+      "answer": "While available everywhere, it is the primary staple of the North and Northeast (Isan) regions.",
+      "question": "Where does sticky rice come from?"
+    },
+    {
+      "answer": "Because of the heavy use of fresh turmeric ($khamin$) in their curry pastes, which imparts a vibrant yellow color and an earthy, peppery flavor.",
+      "question": "Why is Southern food often yellow?"
+    },
+    {
+      "answer": "It is traditionally very spicy, but like all Thai food, you can request it to be made milder.",
+      "question": "Is Isan food always extremely spicy?"
+    },
+    {
+      "answer": "It's a relatively modern dish from Central Thailand, promoted in the 1940s by the Thai government as part of a campaign to foster national identity and reduce domestic rice consumption.",
+      "question": "Where did Pad Thai originate?"
+    },
+    {
+      "answer": "Yes. For example, the North uses unique spices like '$makhwaen$' (a type of prickly ash). The South uses '$sator$' (stink beans), and the Northeast is famous for its use of '$pla\\ ra$' (fermented fish).",
+      "question": "Are there any unique ingredients from specific regions?"
+    },
+    {
+      "answer": "Galangal ($kha$) is a rhizome in the same family as ginger but has a sharp, citrusy, and pine-like flavor. Ginger is spicier and more pungent. They are not interchangeable.",
+      "question": "What is galangal and how is it different from ginger?"
+    },
+    {
+      "answer": "Yes, there are three main types used in Thai cooking:\n    * **Horapha (Sweet Basil):** Has a sweet, anise-like flavor. Used in green curry and many stir-fries.\n    * **Kra Pao (Holy Basil):** Has a spicy, peppery, clove-like flavor. The star of Pad Kra Pao.\n    * **Maenglak (Lemon Basil):** Has a distinct lemon scent. Used in some soups and curries.",
+      "question": "What is Thai basil? Are there different kinds?"
+    },
+    {
+      "answer": "A pungent, thick paste made from fermented ground shrimp and salt. It provides a powerful, salty, and savory depth of flavor to many curry pastes and dipping sauces.",
+      "question": "What is shrimp paste ($kapi$)?"
+    },
+    {
+      "answer": "A natural sweetener made from the sap of coconut or palmyra palms. It has a rich, caramel-like flavor and is less sweet than white sugar. It's used to balance the salty and sour flavors in Thai dishes.",
+      "question": "What is palm sugar?"
+    },
+    {
+      "answer": "The most common is the small but potent bird's eye chili ($prik\\ kee\\ noo$). Larger, milder chilies ($prik\\ chee\\ fa$) are used for color and milder heat.",
+      "question": "What chilies are used in Thai cooking?"
+    },
+    {
+      "answer": "A sour fruit that grows in a pod. The pulp is used to add a natural, tangy sourness to dishes like Pad Thai and some soups.",
+      "question": "What is tamarind ($makham$)?"
+    },
+    {
+      "answer": "They are both made from grated coconut flesh and water. Coconut cream has a higher fat content and is thicker, often rising to the top of a can of coconut milk. It's used to add richness.",
+      "question": "What's the difference between coconut milk and coconut cream?"
+    },
+    {
+      "answer": "Traditionally, by pounding fresh ingredients—like chilies, lemongrass, galangal, garlic, shallots, kaffir lime zest, cilantro roots, and spices—into a thick, aromatic paste using a stone mortar and pestle.",
+      "question": "How is a Thai curry paste made?"
+    },
+    {
+      "answer": "Those are Thai eggplants. There are several varieties, but the most common are the small, round green ones ($makuea\\ proh$) and the tiny, pea-sized ones ($makuea\\ phuang$), which pop in your mouth.",
+      "question": "What are the little green balls in green curry?"
+    },
+    {
+      "answer": "It's uncooked sticky rice that has been dry-toasted in a pan until golden brown and then ground into a coarse powder. It adds a wonderful nutty flavor and texture to Isan dishes like Larb and Nam Tok.",
+      "question": "What is toasted ground rice ($khao\\ khua$)?"
+    },
+    {
+      "answer": "For some things, yes. Ginger can be a last-resort substitute for galangal, and regular basil for Thai sweet basil, but the flavor will be noticeably different. Key ingredients like fish sauce and lemongrass are very difficult to replace accurately.",
+      "question": "Can I substitute ingredients if I can't find them?"
+    },
+    {
+      "answer": "The root of the cilantro/coriander plant. It has a more intense, earthy flavor than the leaves and is a crucial component in many marinades and curry pastes.",
+      "question": "What are cilantro roots?"
+    },
+    {
+      "answer": "Yes, they are used frequently, especially as a topping for dishes like Pad Thai, in Massaman curry, and as the base for satay sauce. If you have a peanut allergy, you must be very careful and explicit when ordering.",
+      "question": "Are peanuts common in Thai food?"
+    },
+    {
+      "answer": "Also known as cellophane noodles, they are made from mung bean starch. They are clear and gelatinous when cooked and are used in soups, stir-fries ($pad\\ wun\\ sen$), and salads ($yum\\ wun\\ sen$).",
+      "question": "What are glass noodles ($wun\\ sen$)?"
+    },
+    {
+      "answer": "Monosodium glutamate, a flavor enhancer, is commonly used in Thailand, especially in street food and casual restaurants, to add umami. You can request your food without it by saying \"$mai\\ sai\\ phong\\ churot$\".",
+      "question": "What is MSG? Is it used in Thai food?"
+    },
+    {
+      "answer": "The primary utensils are a spoon (in the right hand) and a fork (in the left hand). The fork is used to push food onto the spoon, which is then brought to the mouth. Knives are not used.",
+      "question": "How do Thais eat? What utensils are used?"
+    },
+    {
+      "answer": "Chopsticks are generally only used for noodle soups or for dishes of Chinese origin. They are not used for eating rice-based meals.",
+      "question": "Are chopsticks used?"
+    },
+    {
+      "answer": "If sharing, order a variety of dishes: one curry, one stir-fry, one salad, etc., plus individual plates of rice. Aim for a balance of flavors and cooking methods.",
+      "question": "How do I order in a Thai restaurant?"
+    },
+    {
+      "answer": "Not at all! It's very common and understood. Simply say \"$mai\\ pet$\" (not spicy) or \"$pet\\ nit\\ noi$\" (a little spicy).",
+      "question": "Is it rude to ask for my food to be \"not spicy\"?"
+    },
+    {
+      "answer": "This is the standard \"condiment caddy\" ($khruang\\ phrung$):\n    * **Phrik Nam Pla:** Fish sauce with sliced chilies. For adding saltiness and heat.\n    * **Sugar:** To balance flavors.\n    * **Dried Chili Flakes:** For adding pure heat.\n    * **Vinegar with Sliced Chilies:** For adding sourness and heat.",
+      "question": "What are the condiments on the table?"
+    },
+    {
+      "answer": "Overwhelmingly, yes. The best rule of thumb is to eat at busy stalls with a high turnover of customers, where you can see the food being cooked fresh in front of you.",
+      "question": "Is street food in Thailand safe to eat?"
+    },
+    {
+      "answer": "Tipping is not customary or expected in Thailand, especially at street stalls and local restaurants. In more upscale restaurants and tourist areas, a tip of 10% is appreciated but not mandatory. A service charge is often already included in the bill at hotels and high-end restaurants.",
+      "question": "Do I need to tip in Thailand?"
+    },
+    {
+      "answer": "You can make eye contact and give a slight nod, or say \"$Nong$\" (meaning younger brother/sister) or \"$Pi$\" (older brother/sister) followed by \"$khrap$\" (if you're male) or \"$kha$\" (if you're female).",
+      "question": "How do you call a waiter?"
+    },
+    {
+      "answer": "Yes, it's generally considered good manners to finish your food, as it shows you enjoyed the meal.",
+      "question": "Should I finish everything on my plate?"
+    },
+    {
+      "answer": "Use your (right) hand. Take a small portion from the basket, knead it into a small ball with your fingertips, and use it to dip into sauces or pick up bits of other food.",
+      "question": "What is the proper way to eat sticky rice?"
+    },
+    {
+      "answer": "This translates to \"curry over rice\" and is a very common type of eatery. Pre-made dishes, mostly curries and stir-fries, are displayed in trays. You point to what you want, and they serve it over a plate of rice. It's fast, cheap, and delicious.",
+      "question": "What is a \"rad khao gaeng\" shop?"
+    },
+    {
+      "answer": "\"$Aroi$\" is the word for delicious. If it's very delicious, you can say \"$Aroi\\ mak$!\"",
+      "question": "How do I say \"delicious\" in Thai?"
+    },
+    {
+      "answer": "While common among younger Thais, in a more formal or traditional setting with elders, it's polite to keep phone use to a minimum.",
+      "question": "Is it okay to use my phone at the dinner table?"
+    },
+    {
+      "answer": "In most restaurants, you ask for the bill by saying \"$Check\\ bin\\ khrap/kha$\". At street stalls, you usually pay right after you order or when the food is delivered to your table.",
+      "question": "How do I pay the bill?"
+    },
+    {
+      "answer": "Yes, absolutely. While most Thais eat noodle soup with chopsticks and a soup spoon, it is perfectly acceptable to ask for a fork and regular spoon if you're more comfortable with them.",
+      "question": "Can I get a fork and spoon for my noodle soup?"
+    },
+    {
+      "answer": "Say \"$mangsawirat$\". To be more specific and avoid things like fish sauce or oyster sauce, you should ask for \"$jay$\".",
+      "question": "How do I ask for vegetarian food?"
+    },
+    {
+      "answer": "\"$Mangsawirat$\" is the general term for vegetarian, but it may still include eggs, dairy, and sometimes oyster or fish sauce. \"$Jay$\" is a stricter form of veganism, which excludes all animal products as well as pungent vegetables like garlic, onions, and chives.",
+      "question": "What is the difference between \"$mangsawirat$\" and \"$jay$\"?"
+    },
+    {
+      "answer": "It is getting much easier, especially in cities like Bangkok and Chiang Mai. Look for restaurants with red and yellow flags and the character \"齋\" which signifies \"$jay$\" food.",
+      "question": "Is it easy to find vegan food in Thailand?"
+    },
+    {
+      "answer": "Fish sauce ($nam\\ pla$), shrimp paste ($kapi$), and oyster sauce ($nam\\ man\\ hoi$) are the most common. They are used in the vast majority of savory dishes, including many that appear to be vegetable-based.",
+      "question": "What are common hidden animal products?"
+    },
+    {
+      "answer": "Many dishes are naturally gluten-free as they are based on rice or rice noodles. However, soy sauce (used in many stir-fries like Pad See Ew) and oyster sauce contain wheat. Always confirm when ordering.",
+      "question": "Is Thai food gluten-free?"
+    },
+    {
+      "answer": "You must be extremely cautious. Peanuts and cashews are very common. Clearly state your allergy: \"$Chan\\ pae\\ thua\\ li\\ song$\". Cross-contamination can be a risk, especially at street food stalls.",
+      "question": "I have a nut allergy. Is Thai food safe?"
+    },
+    {
+      "answer": "Yes. You can order stir-fries, grilled meats (like Gai Yang), soups (without noodles), and salads (like Larb, without the toasted rice). Ask for them without sugar and served without a side of rice.",
+      "question": "Are there low-carb options?"
+    },
+    {
+      "answer": "In many health-conscious or tourist-oriented restaurants, yes. You can ask for \"$khao\\ glong$\". In typical local eateries, it is usually not available.",
+      "question": "Can I get brown rice instead of white rice?"
+    },
+    {
+      "answer": "It's a generic term for a vast category of spicy chili-based dips or relishes. They are served with fresh or boiled vegetables and are a cornerstone of Thai cuisine. Many contain shrimp paste.",
+      "question": "What is \"Nam Prik\"?"
+    },
+    {
+      "answer": "Tao Hu Pad Med Mamuang (Stir-fried Tofu with Cashew Nuts), Pad Pak Ruam (Stir-fried Mixed Vegetables), and many curries can be made with tofu and vegetables. Always specify \"no fish sauce, no oyster sauce.\"",
+      "question": "What is a good vegetarian Thai dish?"
+    },
+    {
+      "answer": "A strongly brewed black tea, sweetened with sugar and condensed milk, and served over ice. It has a signature bright orange color.",
+      "question": "What is Thai Iced Tea ($Cha\\ Yen$)?"
+    },
+    {
+      "answer": "Strong iced coffee, often brewed with grains or seeds, and sweetened with sugar or condensed milk.",
+      "question": "What is Thai Iced Coffee ($Oliang$ or $Kafae\\ Boran$)?"
+    },
+    {
+      "answer": "Singha, Chang, and Leo are the \"big three\" local lagers. They are light and crisp, perfect for pairing with spicy food.",
+      "question": "What are the most popular Thai beers?"
+    },
+    {
+      "answer": "* **Tub Tim Krob:** \"Red rubies\" made of water chestnuts in tapioca flour, served in sweetened coconut milk with ice.\n    * **Khanom Krok:** Small, grilled coconut pancakes.\n    * **Bua Loy:** Rice flour balls in a sweet coconut milk broth.\n    * **I-Tim Kati:** Coconut ice cream, often served with toppings like sticky rice or peanuts.",
+      "question": "What other desserts are popular besides Mango Sticky Rice?"
+    },
+    {
+      "answer": "Literally \"iced milk,\" it's a bright pink, sweet drink made with Sala-flavored syrup (from a type of palm fruit) and milk. A favorite among kids and adults.",
+      "question": "What is \"Nom Yen\"?"
+    },
+    {
+      "answer": "Yes. Mekhong and SangSom are popular local \"whiskies\" (technically rum, as they are distilled from sugarcane). Lao Khao is a potent, clear rice spirit.",
+      "question": "Are there Thai spirits?"
+    },
+    {
+      "answer": "Fresh fruit juices and shakes are everywhere. Look for fresh coconut water, sugarcane juice, and passionfruit or lime shakes.",
+      "question": "What non-alcoholic drinks are common?"
+    },
+    {
+      "answer": "It is not recommended to drink tap water in Thailand. Drink bottled water. The ice served in restaurants is commercially made from purified water and is safe.",
+      "question": "Is the water safe to drink?"
+    },
+    {
+      "answer": "Water ($nam\\ plao$) is the most common. Iced Chinese tea ($nam\\ cha$) is also very popular. Beer is a frequent accompaniment to evening meals.",
+      "question": "What do Thais drink with their meals?"
+    },
+    {
+      "answer": "Yes, but it is heavily taxed and therefore relatively expensive compared to beer and local spirits.",
+      "question": "Can I find wine in Thailand?"
+    },
+    {
+      "answer": "A stone mortar and pestle ($krok\\ lae\\ saak$) for making curry pastes and salads, and a wok for stir-frying.",
+      "question": "What is the most essential piece of equipment for a Thai kitchen?"
+    },
+    {
+      "answer": "Food is a central part of Thai social life. Thais often eat small meals throughout the day rather than three large ones. It's common to greet someone with \"$Gin\\ khao\\ reu\\ yang?$\" which means \"Have you eaten yet?\"",
+      "question": "Why do Thais eat so frequently?"
+    },
+    {
+      "answer": "Thai cuisine is a melting pot. The use of spices came from India, stir-frying and noodles from China, and the sweet-savory balance is uniquely Thai.",
+      "question": "What is the history behind the different flavors in Thai food?"
+    },
+    {
+      "answer": "Yes, fried insects (like crickets, silkworms, and bamboo grubs) are a popular snack, especially in the North and Northeast. They are often sold from street carts and are considered a high-protein, savory treat.",
+      "question": "Are insects really eaten in Thailand?"
+    },
+    {
+      "answer": "Don't drink water! It spreads the capsaicin oil. Eat plain rice, have a sugary drink, or eat a dairy product like yogurt or milk to neutralize the heat.",
+      "question": "What's the best way to cool my mouth down after eating something too spicy?"
+    },
+    {
+      "answer": "Dishes from Royal Thai Cuisine can be incredibly complex. Making a curry paste entirely from scratch using a mortar and pestle is also very labor-intensive but rewarding.",
+      "question": "What is the hardest Thai dish to make at home?"
+    },
+    {
+      "answer": "Pad Kra Pao (Holy Basil Stir-fry) or a simple Thai fried rice ($khao\\ pad$) are great starting points.",
+      "question": "What is an easy Thai dish for a beginner to cook?"
+    },
+    {
+      "answer": "Use a good quality paste (or make your own), don't boil the coconut milk too aggressively, and balance the flavors at the end with fish sauce (salty), palm sugar (sweet), and lime juice (sour).",
+      "question": "How can I make my Thai curry taste authentic?"
+    },
+    {
+      "answer": "Some believe that you shouldn't sing in the kitchen, or you will end up with an old spouse.",
+      "question": "What is a common food-related superstition in Thailand?"
+    },
+    {
+      "answer": "While Pad Thai is the most famous, many would argue that a truly authentic and unforgettable taste of Thailand comes from a bowl of Tom Yum Goong, a spicy Som Tum salad, or a comforting plate of Pad Kra Pao with a fried egg on top.",
+      "question": "What is the one dish every visitor to Thailand must try?"
+    }
+  ]
