@@ -11,6 +11,29 @@
               ThaiFood Assistant
             </h1>
           </div>
+          
+          <!-- AI Status Badges -->
+          <div v-if="promptAPIStatus || mediaPipeStatus" class="flex justify-center gap-2 mb-3">
+            <!-- Prompt API Status Badge -->
+            <div v-if="promptAPIStatus.available" 
+              :class="[
+                'px-3 py-1 rounded-full text-xs font-medium',
+                promptAPIStatus.available 
+                  ? 'bg-green-100 text-green-800 border border-green-200' 
+                  : 'bg-yellow-100 text-yellow-800 border border-yellow-200'
+              ]"
+            >
+              ✅ {{ promptAPIStatus.message }}
+            </div>
+            
+            <!-- MediaPipe Status Badge -->
+            <div v-if="mediaPipeStatus && mediaPipeStatus.initialized" 
+              class="px-3 py-1 rounded-full text-xs font-medium bg-blue-100 text-blue-800 border border-blue-200"
+              title="Local AI model loaded successfully"
+            >
+              🤖 MediaPipe Gemma-3 1B
+            </div>
+          </div>
         </div>
       </template>
 
@@ -84,13 +107,15 @@ import { ref, onMounted, nextTick, watch } from 'vue';
 import { marked } from 'marked';
 import { useVectorStore } from '@/composables/useVectorStore';
 
-const { init, search } = useVectorStore();
+const { init, search, getPromptAPIStatus, getMediaPipeStatus } = useVectorStore();
 
 const messages = ref([]);
 const input = ref('');
 const isProcessing = ref(false);
 const isInitializing = ref(true);
 const chatContainer = ref(null);
+const promptAPIStatus = ref(null);
+const mediaPipeStatus = ref(null);
 
 // Configure marked options
 marked.setOptions({
@@ -174,6 +199,13 @@ const sendMessage = async () => {
 
 onMounted(async () => {
   await init();
+  
+  // Get Prompt API status
+  promptAPIStatus.value = await getPromptAPIStatus();
+  
+  // Get MediaPipe status
+  mediaPipeStatus.value = getMediaPipeStatus();
+  
   messages.value.push({ 
     from: 'bot', 
     text: 'สวัสดี! 👋 **Welcome to the ThaiFood Assistant!**\n\nAsk me anything about Thai food, dishes, or cooking. 🇹🇭',
