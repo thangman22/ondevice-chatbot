@@ -9,6 +9,9 @@ A demo chatbot that uses **On-device AI** to convert text to vectors and Chrome'
 - **Built-in AI**: Leverages built-in Prompt API for enhanced responses
 - **Thai Food Expert**: Specialized knowledge about authentic Thai cuisine
 
+## Befor start
+Download gemma3-1B-it-int4.task from https://www.kaggle.com/models/google/gemma-3/tfLite/gemma3-1b-it-int4 and put in to public directory 
+
 ## 🚀 Quick Start
 
 ```bash
